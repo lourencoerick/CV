@@ -6,6 +6,7 @@ About
 * São Paulo, SP Brazil
 * [github.com/lourencoerick](http://github.com/lourencoerick)
 * [linkedin.com/in/ericklourenco/](https://www.linkedin.com/in/ericklourenco/)
+
 Summary
 -------
 * A multidisciplinary engineer having an inquiring mind and consistent knowledge basis, focused on results and quality enhancement, turning data into information, changing the way how we see the world. Think Big. Use Data. Evolve with big data.
