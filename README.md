@@ -45,11 +45,3 @@ Awards
 * Eiffel Scholarship (2011)
 
 
-Projects
---------
-**Inertia wheel inverted pendulum** (2014, Escola Politecnica da USP)
-* Designed and built a prototype of an inertia wheel inverted pendulum with two degrees of freedom.
-* Wrote the mathematical model of the pendulum in Matlab/Simulink and designed a sophisticated non-linear control 
-* Designed the mechanical structure of the pendulum by defining materials and its dimensions
-* Searched and prioritized the electronic parts by selecting the best ones for its specific needs
-
