@@ -4,7 +4,6 @@ Erick Lourenço
 About
 -----
 * São Paulo, SP Brazil
-* maf@mit.edu
 * [github.com/lourencoerick](http://github.com/lourencoerick)
 * [linkedin.com/in/ericklourenco/](https://www.linkedin.com/in/ericklourenco/)
 Summary
