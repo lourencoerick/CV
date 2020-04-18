@@ -23,16 +23,9 @@ Experience
 ----------
 **Sr. Data Scientist, Nextel** (2018-present, São Paulo SP)
 
-
 **Data Scientist, Clearsale** (2017, São Paulo SP)
-* Built predictive models from start to finish, i.e., understanding the business, getting information (including web scrapping), feature engineering and testing a wide variety of ML algorithms
-* Disseminated ML algorithms in the company 
-* Conducted many initiatives to enhance the knowledge management
 
 **Data Scientist, Itaú** (2015-2016, São Paulo SP)
-* Experienced a variety of machine learning algorithms such as LASSO, Rigde, Logistic regression, Decision tree.
-* Designed a Textual Data Mining process to extract information from free-text datasets using Hive and R packages.
-* Developed and Implemented pre-processing and ETL routines building a large pool of predictor variables, i. e., turning data into information for credit risk modeling and customer relationship management.
 
 Skills
 ------
